@@ -10,3 +10,4 @@ them. Use `adr-template.md` as the starting point.
 | 002 | Product centering — Rescue wing is the hero | Accepted |
 | 003 | RiskEngine PyPI distribution name | Accepted |
 | 004 | Always-live hot-path architecture | Accepted |
+| 005 | Kavach visual motif — lens replaces shield | Accepted |
