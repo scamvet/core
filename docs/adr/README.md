@@ -13,9 +13,6 @@ them. Use `adr-template.md` as the starting point.
 | 005 | Kavach visual motif — lens replaces shield | Accepted |
 | 006 | Scorer architecture and corpus limits | Accepted |
 | 007 | Corpus licence posture — research vs product track | Accepted |
+| 008 | Registry manifest and ScoreResult contract | Accepted |
 | 009 | Frozen metric protocol | Accepted |
 | 010 | Live threat-intelligence feed posture | Accepted |
-
-Number 008 is reserved for Chapter A decisions not yet
-committed: 008 (registry manifest and
-ScoreResult contract).
